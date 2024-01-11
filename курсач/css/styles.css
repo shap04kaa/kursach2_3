@@ -1,0 +1,17 @@
+.navbar-nav .nav-item .nav-link:hover {
+    color:  rgb(200, 200, 200) !important; /* Изменение цвета при наведении */
+}
+
+.map {
+	width: 1000px;
+	height: 550px;
+	background-color: #000000;
+    padding: 0.5%;
+    margin: 0 auto; /* Устанавливаем автоматичесные отступы по бокам */
+    display: block; /* По умолчанию у блочных элементов */
+    margin-bottom: 5%;
+}
+
+[class*="copyrights-pane"] {
+	display: none !important;
+}
